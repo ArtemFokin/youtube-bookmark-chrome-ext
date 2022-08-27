@@ -2,6 +2,7 @@
   "name": "react-youtube-bookmarks",
   "version": "0.1.0",
   "private": true,
+  "author": "Artem Fokin <art.fokin122@yandex.ru>",
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@testing-library/jest-dom": "^5.16.5",
